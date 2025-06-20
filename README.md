@@ -26,6 +26,8 @@ https://github.com/sungmin306/SDI-Orchestration/tree/main
 | **k3s**               | v1.32.5+k3s1                                |
 | **Container Runtime** | containerd://2.0.5-k3s1.32                  |
 
+## 프로세스 역할
+- 📡 **run_exporter**: 터틀봇의 배터리 상태와 위치 정보를 실시간으로 수집해 Metric-Collector에 전송하는 익스포터 프로세스
 
 ---
 ## 프로세스 설치 <a id="프로세스-설치"></a>
