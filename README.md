@@ -20,8 +20,8 @@ https://github.com/sungmin306/SDI-Orchestration/tree/main
 | 항목                  | 버전 / 세부 정보                             |
 | --------------------- | ------------------------------------------- |
 | **ROS 2**             | ros2-jazzy                                  |
-| **Operating System**  | Ubuntu 22.04.5 LTS                          |
-| **Kernel**            | Linux 5.15.0-1065-raspi                     |
+| **Operating System**  | Ubuntu 24.04.2 LTS                           |
+| **Kernel**            | Linux 6.8.0-1028-raspi                    |
 | **Architecture**      | arm64                                       |
 | **k3s**               | v1.32.5+k3s1                                |
 | **Container Runtime** | containerd://2.0.5-k3s1.32                  |
