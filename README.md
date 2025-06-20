@@ -21,7 +21,7 @@ https://github.com/sungmin306/SDI-Orchestration/tree/main
 
 ```bash
 git clone <YOUR_REPO_URL>
-cd SDI_TURTLEBOT/KETI_TURTLEBOT
+cd SDI-Turtlebot-Setting/KETI_TURTLEBOT
 ./install_rabbit_dependency.sh  # 터틀봇 메트릭 데이터 관련 의존성 라이브러리 설치
 ```
 
