@@ -61,7 +61,7 @@ ros2 launch turtlebot3_cartographer cartographer.launch.py  # 공식 가이드 �
 ros2 launch turtlebot3_navigation2 navigation2.launch.py   # 공식 가이드 참고
 
 # 4) 데이터 수집 프로세스 실행(터틀봇에서 실행)
-./run_exporter.py
+./run_exporter.py # SDI-스케줄러 사용시 꼭 필요합니다.
 ```
 
 실행 결과
