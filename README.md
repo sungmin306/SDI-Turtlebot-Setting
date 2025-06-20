@@ -53,14 +53,16 @@ vi run_exporter.py  # 주석 처리된 부분을 본인 환경에 맞게 수정
 ### 데이터 추출 전 준비 <a id="데이터-추출-전-준비"></a>
 
 ⚠️ **TurtleBot3에서 2D Pose Estimate를 설정해야 `/tf`·`/amcl_pose` 등 위치 관련 ROS 토픽을 정상 수신할 수 있다.**
+<img src="https://github.com/user-attachments/assets/83e34d34-c50c-4175-a7aa-c0f9e14e13a1" width="600" height="376"/>
 
-<img src="https://github.com/user-attachments/assets/c646269d-a628-4018-b865-018fa41e89ce" width="640" />
+
+
 
 > 위와 같이 RViz에서 Initial Pose 할당 후 SLAM 맵을 완성하면 `/amcl_pose` 토픽에 좌표가 들어오기 시작한다.
 
 결과 예시:
 
-<img src="https://github.com/user-attachments/assets/e0343f4c-2827-43e9-8f8d-0ad2d1285fc8" width="640" />
+<img src="https://github.com/user-attachments/assets/58c3cd2b-561e-4208-8b04-3e96dc5ffa8d" width="600" height="376"/>
 
 ---
 ### 배터리·위치 정보 추출 <a id="배터리위치-정보-추출"></a>
