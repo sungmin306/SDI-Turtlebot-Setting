@@ -20,7 +20,7 @@ https://github.com/sungmin306/SDI-Orchestration/tree/main
 ### 의존성 설치 <a id="의존성-설치"></a>
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/sungmin306/SDI-Turtlebot-Setting.git
 cd SDI-Turtlebot-Setting/KETI_TURTLEBOT
 ./install_rabbit_dependency.sh  # 터틀봇 메트릭 데이터 관련 의존성 라이브러리 설치
 ```
